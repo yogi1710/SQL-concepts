@@ -1,0 +1,4 @@
+-- create database HeroVired;
+-- create table RGM(contact_number integer primary key not null ,name varchar(20) not null,college varchar(20) not null );
+-- insert into RGM values (703214,"hari","RGM Clg"),(98763,"tarak","SVC");
+-- select * from RGM;
